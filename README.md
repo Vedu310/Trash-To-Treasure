@@ -1,7 +1,3 @@
-# Trash-To-Treasure
-The "Trash To Treasure" Platform Employs A Systematic And User Centric Methodology To Streamline The Process Of Scrap And Junk  Collection While Ensuring Efficiency, Reliability, And Environmental  Responsibility. 
-This repository contains the source code and files for an Trash2Treasure website. The website is built using HTML,CSS,Javascript and PHP and Mysql and incorporates various features for buying and selling products online.
-
 # Trash2Treasure
 This repository contains the source code and files for an Trash2Treasure website. The website is built using HTML,CSS,Javascript and PHP and Mysql and incorporates various features for buying and selling products online.
 
